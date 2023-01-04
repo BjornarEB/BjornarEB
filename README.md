@@ -1,5 +1,5 @@
 - 👋
-- 📫 Reach me on: linkedin.com/in/bjornar-engeset-bang
+- 📫 Reach me on: [linkedin.com/in/bjornar-engeset-bang](https://www.linkedin.com/in/bjornar-engeset-bang/)
 
 <!---
 BjornarEB/BjornarEB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
